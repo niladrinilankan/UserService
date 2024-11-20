@@ -112,10 +112,10 @@ Ensure that you have the following prerequisites installed on your machine:
    dotnet build
    dotnet run
    ```
-   
+    
 # License
 
 This project is licensed under the [MIT License](LICENSE).
 
 # Usage
-For detailed information on how to use the API, refer to the API documentation available at [http://localhost:5004/swagger](http://localhost:5004/swagger/index.html).
+For detailed information on how to use the API, refer to the API documentation available at [http://localhost:5004/swagger] (http://localhost:5004/swagger/index.html).
